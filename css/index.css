@@ -257,6 +257,7 @@ img {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #e2e2e2;
+  transition: all 0.2s linear;
 }
 
 .btn-primary {
@@ -267,6 +268,7 @@ img {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #326dee;
+  transition: all 0.2s linear;
 }
 .btn-primary:hover {
   background-color: #4a7ef0;
@@ -280,6 +282,7 @@ img {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #1ac886;
+  transition: all 0.2s linear;
 }
 .btn-secondary:hover {
   background-color: #1ddf95;
@@ -293,6 +296,7 @@ img {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #fff;
+  transition: all 0.2s linear;
   border: 1px solid #1ac886;
 }
 .btn-outlined-secondary:hover {
@@ -307,6 +311,7 @@ img {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #d32752;
+  transition: all 0.2s linear;
 }
 .btn-error:hover {
   background-color: #da3961;
@@ -320,6 +325,7 @@ img {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #f6c31c;
+  transition: all 0.2s linear;
 }
 .btn-info:hover {
   background-color: #f7c935;
@@ -333,6 +339,7 @@ img {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #fff;
+  transition: all 0.2s linear;
   border: 1px solid #ffa600;
 }
 .btn-outlined-orange:hover {
@@ -347,6 +354,7 @@ img {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #fff;
+  transition: all 0.2s linear;
   border: 1px solid #9900ff;
 }
 .btn-outlined-purple:hover {
